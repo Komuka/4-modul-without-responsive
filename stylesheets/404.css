@@ -1,0 +1,26 @@
+.no{
+margin-top: 13rem;
+}
+.no2 p{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.3vw;
+margin-top: 5rem;
+}
+.no3 {
+font-family: centurygothic;
+font-size: 1.5vw;
+padding: 10px 60px 10px 20px;
+background-color: #EBEBEB;
+border: none;
+background-image: url("../img/strelka.svg");
+background-repeat : no-repeat;
+background-position: 120px;
+margin-left: 55rem;
+margin-top: 5rem;
+}
+.no3:hover {
+background-color: #9627DA;
+color: #EBEBEB;
+background-image: url("../img/strelka2.svg");
+}

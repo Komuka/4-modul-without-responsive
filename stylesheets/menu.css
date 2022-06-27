@@ -1,0 +1,87 @@
+.navbar {
+padding: 0.1rem 40rem 0rem 3rem;
+}
+.zagg{margin-left: 0rem;}
+.alco{
+font-family: GarciaMarquez;
+color: #EBEBEB;
+font-size: 3vw;
+margin-left: 3rem;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+.mor{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 2.5vw;
+margin-left: 7rem;
+margin-top: 2rem;
+}
+.kompl{
+display: flex;
+margin-bottom: 2rem;
+}
+.ingrid{
+margin-left: 7rem;
+margin-top: 2rem;
+display: flex;
+flex-direction: column;
+}
+.ingrid p{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 1.5vw;
+}
+.krug{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+border: 2px solid #EBEBEB;
+margin-right: 1.5rem;
+}
+.yag{
+margin-top: 0.5rem;
+}
+.ha{
+display: flex;
+}
+.stakan{
+margin-left: 70rem;
+margin-top: -3rem;
+}
+.stakan2{
+margin-left: 70rem;
+margin-top: -3rem;
+margin-bottom: 1rem;
+}
+.rubl{
+font-family: centurygothic;
+color: #EBEBEB;
+font-size: 2.5vw;
+margin-left: 75rem;
+margin-top: -3.5rem;
+margin-bottom: 2rem;
+}
+.stakan3{
+margin-left: 69rem;
+margin-top: -2rem;
+}
+.stakan4{
+margin-left: 71rem;
+margin-top: -2rem;
+}
+.stakan5{
+margin-left: 78rem;
+margin-top: -2rem;
+}
+.stakan6{
+margin-left: 68rem;
+margin-top: -3rem;
+margin-bottom: 0.5rem;
+}
+.pervoee{
+background-position: 160px;
+}
+.footer{
+margin-top: 5rem;
+}
